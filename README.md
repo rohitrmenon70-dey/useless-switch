@@ -1,4 +1,4 @@
-Useless Switch 🎯
+#Useless Switch 🎯
 
 Team Name: OG's
 Team Members
@@ -13,16 +13,16 @@ We just thought about why not another arm OFF the switch whenever we turn ON...
 
 We placed a servo motor with an arm connected to Arduino nano. Whenever the switch is in ON position it detects that and the servo motor turn it OFF...
 
-Technical Details
+#Technical Details
 Technologies/Components Used
 
-For Software:
+#For Software:
 
 Arduino IDE
 CAD,Bamboo Studio
 Servo
 Arduino AVR Boards
 
-For Hardware:
+#For Hardware:
 
 Arduino NANO, Servo Motor(MG90S), SPDT switch,3D printed things etc...
